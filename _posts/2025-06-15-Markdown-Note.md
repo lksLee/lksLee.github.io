@@ -102,7 +102,7 @@ graph TD
 	B -->|YES| C[A]
 	B -->|NO| D[B]
 	C --> E[end]
-	D --> end
+	D --> E
 ```
 
 ```mermaid
