@@ -45,7 +45,7 @@ import pandas as pd
   - 二级目录  
 
 -[ ] 未完成  
--[x]完成  
+-[x] 完成  
 
 >床前明月光，疑是地上霜  
 
@@ -92,7 +92,8 @@ import pandas as pd
 |x|y|
 
 ## LaTex公式
-\f(x) = sin(x) + 12\
+$f(x) = sin(x) + 12$  
+$$\sum_{i=0}^{\infty}x_i = x_1 + x_2 + \cdots + x_i$$
 
 
 ## 流程图
