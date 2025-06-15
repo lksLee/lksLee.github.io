@@ -1,3 +1,13 @@
+---
+layout:       post
+title:        "Markdown 学习笔记"
+author:       "Hayashi"
+header-style: text
+catalog:      true
+tags:
+    - Markdown
+---
+
 # Winston Churchill
 **real**  
 *real*  
