@@ -3,7 +3,7 @@ layout:       post
 title:        "随记|六月半"
 subtitle: "It's time to go"
 author:       "Hayashi"
-header-img: "url('https://raw.githubusercontent.com/lksLee/bc_img/main/post-bg-cafucgate.jpg') center/cover no-repeat"
+header-img: "https://raw.githubusercontent.com/lksLee/bc_img/main/post-bg-cafucgate.jpg"
 header-mask: 0.4
 header-style: text
 catalog:      false
