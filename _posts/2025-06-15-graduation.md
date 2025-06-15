@@ -3,7 +3,7 @@ layout:       post
 title:        "随记|六月半"
 subtitle: "Time to go"
 author:       "Hayash"
-header-img: "img/post-bg-CAFUC_Hall_Gate.jpg"
+header-img: "img/post-bg-CAFUC-Hall-Gate.jpg"
 header-mask: 0.4
 header-style: text
 catalog:      false
