@@ -1,9 +1,9 @@
 ---
 layout:       post
 title:        "随记|六月半"
-subtitle: "Time to go"
-author:       "Hayash"
-header-img: "img/post-bg-CAFUC-Hall-Gate.jpg"
+subtitle: "It's time to go"
+author:       "Hayashi"
+header-img: "img/post-bg-cafucgate.jpg"
 header-mask: 0.4
 header-style: text
 catalog:      false
