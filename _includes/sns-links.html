@@ -77,30 +77,31 @@
       </span>
     </a>
   </li>
-    {% if site.bilibili_username %}
-    <li>
-      <a target="_blank" href="https://space.bilibili.com/{{ site.bilibili_username }}">
-        <span class="icon-container">
-          <span class="iconfont icon-bilibili"></span>
-        </span>
-      </a>
-    </li>
-    {% endif %}
-    
-    <style>
-    .icon-container {
-      display: inline-block;
-      width: 2em;
-      height: 2em;
-      line-height: 2em;
-      text-align: center;
-      border-radius: 50%;
-      background-color: #333;
-      color: white;
-    }
-    .icon-container .iconfont {
-      font-size: 1em;
-      vertical-align: middle;
-    }
-    </style>
+  {% endif %}
+  {% if site.bilibili_username %}
+  <li>
+    <a target="_blank" href="https://space.bilibili.com/{{ site.bilibili_username }}">
+      <span class="icon-container">
+        <span class="iconfont icon-bilibili"></span>
+      </span>
+    </a>
+  </li>
+  {% endif %}
+
+  <style>
+  .icon-container {
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #333;
+    color: white;
+  }
+  .icon-container .iconfont {
+    font-size: 1em;
+    vertical-align: middle;
+  }
+  </style>
 </ul>
