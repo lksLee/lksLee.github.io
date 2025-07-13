@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username: huxpro
 zhihu_username: huxpro
-github_username: huxpro
+github_username: lksLee
 twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "<br>保持好奇心 </br> "
 sidebar-avatar: https://i.imgs.ovh/2025/07/13/9fijh.jpeg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
