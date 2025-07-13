@@ -77,15 +77,30 @@
       </span>
     </a>
   </li>
-  {% endif %}
-  {% if site.bilibili_username %}
-  <li>
-    <a target="_blank" href="https://space.bilibili.com/{{ site.bilibili_username }}">
-      <span class="iconfont icon-bilibili">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-stack-1x fa-inverse">B</i>
-      </span>
-    </a>
-  </li>
-  {% endif %}
+    {% if site.bilibili_username %}
+    <li>
+      <a target="_blank" href="https://space.bilibili.com/{{ site.bilibili_username }}">
+        <span class="icon-container">
+          <span class="iconfont icon-bilibili"></span>
+        </span>
+      </a>
+    </li>
+    {% endif %}
+    
+    <style>
+    .icon-container {
+      display: inline-block;
+      width: 2em;
+      height: 2em;
+      line-height: 2em;
+      text-align: center;
+      border-radius: 50%;
+      background-color: #333;
+      color: white;
+    }
+    .icon-container .iconfont {
+      font-size: 1em;
+      vertical-align: middle;
+    }
+    </style>
 </ul>
