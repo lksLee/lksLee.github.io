@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://wx3.sinaimg.cn/mw690/781c1bd7ly1i3bczlla4nj20qj0cwn1d.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/lksLee/lksLee.github.io/blob/dc16f1339a9ac52fbe42917bf74951598dd11114/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230119102720.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
